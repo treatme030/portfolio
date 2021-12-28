@@ -25,6 +25,12 @@
    ![pblog](https://user-images.githubusercontent.com/74355328/147532353-0ab7aa4a-587d-4af7-8171-be2101ce09d9.gif)
 
 ### react-portfolio
+   * Swiper 사용하여 슬라이드 구현
+   * react-transition-group 사용하여 transition이 적용
+   * smooth-scrollbar 사용
+   * 입력된 검색어 매칭
+   
+   ![pport](https://user-images.githubusercontent.com/74355328/147540060-97a2d0b3-40e2-42d9-a60d-618a9be35c81.gif)
 
 ## 2. React의 다양한 기능 구현 
 
@@ -120,3 +126,6 @@
    ![papple](https://user-images.githubusercontent.com/74355328/147442160-06ab99bb-64bd-4f8f-aeac-a157a044d8fa.gif)
    
  * [oneul-ex]
+   * flex와 position을 이용한 레이아웃
+   
+   ![ponon](https://user-images.githubusercontent.com/74355328/147536116-cc1b6a97-282b-405a-af95-b685500fd343.gif)
