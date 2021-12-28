@@ -3,6 +3,7 @@
 ## 1. React 사용한 프로젝트
 
 ### [공.장](https://github.com/treatme030/GongJang)
+  * Redux(redux-toolkit)을 통한 상태관리
   * 회원간 소통을 위한 댓글, 대댓글
   * 카테고리와 검색어를 통한 나눔글 필터
   * 반응형
@@ -18,7 +19,7 @@
   ![psw](https://user-images.githubusercontent.com/74355328/147448278-774fcb8f-1b13-47d8-8b69-efed1d59e698.gif)
    
 ### [blog-frontend](https://github.com/treatme030/blog-frontend)
-   * Redux, Redux-saga를 이용한 상태관리
+   * Redux(Redux-saga)를 이용한 상태관리
    * 태그로 글 필터링
    * 페이지네이션
    
