@@ -3,9 +3,9 @@
 ## 1. React 사용한 프로젝트
 
 ### [공.장](https://github.com/treatme030/GongJang)
-  * React 상태관리를 위해 Redux-toolkit과 Ducks 패턴 사용
   * 회원간 소통을 위한 댓글, 대댓글
   * 카테고리와 검색어를 통한 나눔글 필터
+  * 반응형
   
   ![pgggg](https://user-images.githubusercontent.com/74355328/147446906-55418450-ae89-4751-9054-dedd0310af51.gif)
    
