@@ -94,6 +94,12 @@
    
    ![ph](https://user-images.githubusercontent.com/74355328/147437689-015878f7-c821-4d4d-abc4-5b30ebf0432e.gif)
    
+ * [roundaround](https://github.com/treatme030/roundaround)
+   * grid-template-areas를 이용한 아이템 레이아웃
+   * background-attachment를 이용한 배경이미지 고정
+   
+   ![pro](https://user-images.githubusercontent.com/74355328/147443418-272ab283-41fc-4f34-8b6a-5c3899ab5905.gif)
+   
  * [jeju-beer](https://github.com/treatme030/jeju-beer)
    * opacity와 z-index를 사용해 슬라이드 구현
    * 슬라이드 복제를 통한 무한 슬라이드
@@ -112,11 +118,5 @@
    * 아코디언 메뉴
    
    ![papple](https://user-images.githubusercontent.com/74355328/147442160-06ab99bb-64bd-4f8f-aeac-a157a044d8fa.gif)
-   
- * [roundaround](https://github.com/treatme030/roundaround)
-   * grid-template-areas를 이용한 아이템 레이아웃
-   * background-attachment를 이용한 배경이미지 고정
-   
-   ![pro](https://user-images.githubusercontent.com/74355328/147443418-272ab283-41fc-4f34-8b6a-5c3899ab5905.gif)
    
  * [oneul-ex]
