@@ -1,4 +1,4 @@
-# 🗂 juhee's Portfolio
+# 🗂 Portfolio
 
 ## 1. React 사용한 프로젝트
 
