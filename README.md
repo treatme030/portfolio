@@ -1,6 +1,6 @@
 # 🗂 Portfolio
 
-## 1. React 사용한 프로젝트
+## 프로젝트
 
 ### [공.장](https://github.com/treatme030/GongJang)
   * Redux(redux-toolkit)을 통한 상태관리
@@ -33,7 +33,7 @@
    
    ![pport](https://user-images.githubusercontent.com/74355328/147540060-97a2d0b3-40e2-42d9-a60d-618a9be35c81.gif)
 
-## 2. React의 다양한 기능 구현 
+## 다양한 기능 구현
 
  * [react-infinite-scroll-practice](https://github.com/treatme030/react-infinite-scroll-practice)
    * react-infinite-scroll-component 사용하여 무한 스크롤 구현
