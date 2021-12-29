@@ -3,33 +3,45 @@
 ## Projects
 
 ### [공.장.](https://github.com/treatme030/GongJang)
-  * Redux(redux-toolkit)을 통한 상태관리
-  * 회원간 소통을 위한 댓글, 대댓글
-  * 카테고리와 검색어를 통한 나눔글 필터
-  * 반응형
+  * 사용한 기술
+    * React, Redux(Redux-toolkit), JavaScript, HTML, styled-components
+  * 기능 구현
+    * 회원간 소통을 위한 댓글, 대댓글
+    * 카테고리와 검색어를 통한 나눔글 필터
+    * 나눔 글 등록, 편집
+    * 이미지 첨부 시 이미지 미리 보기 및 폼 데이터로 서버 전송
+    * 반응형
   
   ![pgggg](https://user-images.githubusercontent.com/74355328/147446906-55418450-ae89-4751-9054-dedd0310af51.gif)
    
 ### [Switter](https://github.com/treatme030/switter)
-  * Firebase를 사용
-  * 코로나 현황을 위한 외부공공데이터 API 사용
-  * 지역마다 코로나 현황 표시
-  * 최신 인기 동영상 검색을 위한 kakao API를 사용
+  * 사용한 기술
+    * React, JavaScript, HTML, styled-components, Firebase
+  * 기능 구현
+    * 코로나 현황을 위한 외부공공데이터 API 사용
+    * 마우스 호버 시 지역마다 코로나 현황 표시
+    * 최신 인기 동영상 검색을 위한 kakao API를 사용
   
   ![psw](https://user-images.githubusercontent.com/74355328/147448278-774fcb8f-1b13-47d8-8b69-efed1d59e698.gif)
    
 ### [blog-frontend](https://github.com/treatme030/blog-frontend)
-   * Redux(Redux-saga)를 이용한 상태관리
-   * 태그로 글 필터링
-   * 페이지네이션
+   * 사용한 기술
+     * React, Redux(Redux-saga), JavaScript, HTML, styled-components
+   * 기능 구현
+     * 태그로 글 필터링
+     * 글 등록, 편집
+     * 페이지네이션
    
    ![pblog](https://user-images.githubusercontent.com/74355328/147532353-0ab7aa4a-587d-4af7-8171-be2101ce09d9.gif)
 
 ### react-portfolio
-   * Swiper 사용하여 슬라이드 구현
-   * react-transition-group 사용하여 transition이 적용
-   * smooth-scrollbar 사용
-   * 입력된 검색어 매칭
+   * 사용한 기술
+     * React, JavaScript, HTML, styled-components
+   * 기능 구현
+     * Swiper 사용하여 슬라이드 구현
+     * react-transition-group 사용하여 transition이 적용
+     * smooth-scrollbar 사용
+     * 입력된 검색어 매칭
    
    ![pport](https://user-images.githubusercontent.com/74355328/147540060-97a2d0b3-40e2-42d9-a60d-618a9be35c81.gif)
 
