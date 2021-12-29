@@ -50,37 +50,73 @@
 
  * [react-infinite-scroll-practice](https://github.com/treatme030/react-infinite-scroll-practice)
    * react-infinite-scroll-component 사용하여 무한 스크롤 구현
+   
+   ![p15](https://user-images.githubusercontent.com/74355328/147672335-561d96cb-4f60-46a1-a374-4098a71a4db7.gif)
+   
  * [news-viewer-api](https://github.com/treatme030/news-viewer-api)
    * usePromise hook을 만들어 대기중, 성공, 실패에 대한 상태 관리
+   
+   ![p14](https://user-images.githubusercontent.com/74355328/147672138-b1be4174-7870-4380-94d7-ef259ecf9833.gif)
+   
  * [react-cart](https://github.com/treatme030/react-cart)
    * 아이템 상태관리
- * [small-shopping-cart](https://github.com/treatme030/small-shopping-cart)
-   * 장바구니 아이템 관리
+   
+   ![p10](https://user-images.githubusercontent.com/74355328/147671289-b06c8ed1-9f87-49b1-837f-6983a087b01b.gif)
+   
  * [react-slider](https://github.com/treatme030/react-slider)
    * 인덱스를 이용한 슬라이드
+   
+   ![p6](https://user-images.githubusercontent.com/74355328/147670674-446da83a-491b-41f3-9bb8-a7fe5617f281.gif)
+   
  * [react-stripe](https://github.com/treatme030/react-stripe)
    * navbar 메뉴의 텍스트 위치값 구해서 마우스오버 이벤트 적용
+   
+   ![p5](https://user-images.githubusercontent.com/74355328/147670491-045fdd58-e9c3-42c5-af3c-8e764205260f.gif)
+   
  * [react-cocktails](https://github.com/treatme030/react-cocktails)
    * 외부 데이터 API 사용, 입력값에 따른 필터링
+   
+   ![p9](https://user-images.githubusercontent.com/74355328/147671148-3d0f478a-f9aa-4eb3-9e1a-89df2e4b6f8d.gif)
+   
  * [react-sidebar](https://github.com/treatme030/react-sidebar)
    * 사이드 바, 모달 나타내기
+   
+   ![p8](https://user-images.githubusercontent.com/74355328/147670991-41aff519-4fa4-4b70-802e-29ee31ef8ccc.gif)
+   
  * [react-grocery](https://github.com/treatme030/react-grocery)
    * 상품 입력하여 리스트 만들기 
+   
+   ![p4](https://user-images.githubusercontent.com/74355328/147669915-30624417-4a2a-497d-8320-97d5a3de1cc3.gif)
+   
  * [react-color](https://github.com/treatme030/react-color)
    * 입력된 색상 농도별로 생성하기
+   
+   ![p2](https://user-images.githubusercontent.com/74355328/147669419-fddd557c-074b-422b-a142-6965cc676866.gif)
+   
  * [react-menu](https://github.com/treatme030/react-menu)
    * 메뉴 카테고리에 따라 아이템 나타내기
+   
+   ![p7](https://user-images.githubusercontent.com/74355328/147670822-f139dfb8-5dae-43ab-ab05-f0d97d2d71ce.gif)
+   
  * [react-tabs](https://github.com/treatme030/react-tabs)
    * tab 클릭시 tab의 인덱스에 따라 내용 변경하기
+   
+   ![p3](https://user-images.githubusercontent.com/74355328/147669683-df85d93e-e571-498c-9f03-67439c329c7c.gif)
+   
  * [react-dummytext](https://github.com/treatme030/react-dummytext)
    * input에서 선택한 문단 수에 따라 더미 텍스트 나타내기
+   
+   ![p11](https://user-images.githubusercontent.com/74355328/147671390-7c08c3ea-c7e3-403f-98a7-2499503a6685.gif)
+   
  * [react-accordion](https://github.com/treatme030/react-accordion)
    * 버튼 클릭시 설명부분 보여주고, 감추기
+   
+   ![p13](https://user-images.githubusercontent.com/74355328/147671829-93582eca-29c2-4ec9-aa4b-ce8c6449d0e9.gif)
+
  * [tours](https://github.com/treatme030/tours)
    * 상세정보의 보여지는 글자수 제한
- * [react-reviews](https://github.com/treatme030/react-reviews)
-   * 랜덤으로 리뷰 보기
- 
+   
+   ![p12](https://user-images.githubusercontent.com/74355328/147671513-5f1c16cf-1d14-49a6-82bc-50853ea915d7.gif)
 
 ## 🔸 Publishing 🔸
 #### 사용한 기술 : HTML, CSS, JavaScript
