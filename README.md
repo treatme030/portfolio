@@ -33,7 +33,7 @@
    
    ![pport](https://user-images.githubusercontent.com/74355328/147540060-97a2d0b3-40e2-42d9-a60d-618a9be35c81.gif)
 
-## 다양한 기능 구현
+## React의 다양한 기능 구현
 
  * [react-infinite-scroll-practice](https://github.com/treatme030/react-infinite-scroll-practice)
    * react-infinite-scroll-component 사용하여 무한 스크롤 구현
