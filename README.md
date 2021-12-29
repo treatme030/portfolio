@@ -2,7 +2,7 @@
 
 ## Projects
 
-### [공.장](https://github.com/treatme030/GongJang)
+### [공.장.](https://github.com/treatme030/GongJang)
   * Redux(redux-toolkit)을 통한 상태관리
   * 회원간 소통을 위한 댓글, 대댓글
   * 카테고리와 검색어를 통한 나눔글 필터
@@ -10,7 +10,7 @@
   
   ![pgggg](https://user-images.githubusercontent.com/74355328/147446906-55418450-ae89-4751-9054-dedd0310af51.gif)
    
-### [switter](https://github.com/treatme030/switter)
+### [Switter](https://github.com/treatme030/switter)
   * Firebase를 사용
   * 코로나 현황을 위한 외부공공데이터 API 사용
   * 지역마다 코로나 현황 표시
