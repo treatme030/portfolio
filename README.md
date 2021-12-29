@@ -1,6 +1,6 @@
 # 🗂 Portfolio
 
-## Projects
+## 🔸 Projects 🔸
 
 ### [공.장.](https://github.com/treatme030/GongJang)
   * 사용한 기술
@@ -34,7 +34,7 @@
    
    ![pblog](https://user-images.githubusercontent.com/74355328/147532353-0ab7aa4a-587d-4af7-8171-be2101ce09d9.gif)
 
-### react-portfolio
+### [react-portfolio](https://github.com/treatme030/react-portfolio)
    * 사용한 기술
      * React, JavaScript, HTML, styled-components
    * 기능 구현
@@ -45,7 +45,8 @@
    
    ![pport](https://user-images.githubusercontent.com/74355328/147540060-97a2d0b3-40e2-42d9-a60d-618a9be35c81.gif)
 
-## React components
+## 🔸 React components 🔸
+#### 사용한 기술 : React, HTML, CSS, JavaScript
 
  * [react-infinite-scroll-practice](https://github.com/treatme030/react-infinite-scroll-practice)
    * react-infinite-scroll-component 사용하여 무한 스크롤 구현
@@ -81,7 +82,8 @@
    * 랜덤으로 리뷰 보기
  
 
-## Publishing
+## 🔸 Publishing 🔸
+#### 사용한 기술 : HTML, CSS, JavaScript
 
  * [profile-card-hovereffect](https://github.com/treatme030/profile-card-hovereffect)
    * 이미지 hover 되면, 이미지 위치 이동과 컨텐츠 이동
