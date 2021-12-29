@@ -1,6 +1,6 @@
 # 🗂 Portfolio
 
-## 프로젝트
+## Projects
 
 ### [공.장](https://github.com/treatme030/GongJang)
   * Redux(redux-toolkit)을 통한 상태관리
@@ -33,7 +33,7 @@
    
    ![pport](https://user-images.githubusercontent.com/74355328/147540060-97a2d0b3-40e2-42d9-a60d-618a9be35c81.gif)
 
-## React 컴포넌트 구현
+## React components
 
  * [react-infinite-scroll-practice](https://github.com/treatme030/react-infinite-scroll-practice)
    * react-infinite-scroll-component 사용하여 무한 스크롤 구현
@@ -69,7 +69,7 @@
    * 랜덤으로 리뷰 보기
  
 
-## 퍼블리싱
+## Publishing
 
  * [profile-card-hovereffect](https://github.com/treatme030/profile-card-hovereffect)
    * 이미지 hover 되면, 이미지 위치 이동과 컨텐츠 이동
