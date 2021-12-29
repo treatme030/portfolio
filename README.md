@@ -39,7 +39,7 @@
      * React, JavaScript, HTML, styled-components
    * 기능 구현
      * Swiper 사용하여 슬라이드 구현
-     * react-transition-group 사용하여 transition이 적용
+     * react-transition-group 사용하여 transition 적용
      * smooth-scrollbar 사용
      * 입력된 검색어 매칭
    
