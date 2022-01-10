@@ -48,7 +48,7 @@
 ## 🔸 React components 🔸
 #### 사용한 기술 : React, JavaScript, TypeScript, HTML, CSS 
 
- * [react-draggable-component}(https://github.com/treatme030/react-draggable-component)
+ * [react-draggable-component](https://github.com/treatme030/react-draggable-component)
    * 드래그 가능한 컴포넌트
  
  * [react-infinite-scroll-practice](https://github.com/treatme030/react-infinite-scroll-practice)
