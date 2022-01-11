@@ -46,10 +46,13 @@
    ![pport](https://user-images.githubusercontent.com/74355328/147540060-97a2d0b3-40e2-42d9-a60d-618a9be35c81.gif)
 
 ## 🔸 React components 🔸
-#### 사용한 기술 : React, JavaScript, TypeScript, HTML, CSS 
+#### 사용한 기술 : React, JavaScript, HTML, CSS 
 
  * [react-draggable-component](https://github.com/treatme030/react-draggable-component)
    * 드래그 가능한 컴포넌트
+   * TypeScript 사용
+   
+   ![dr](https://user-images.githubusercontent.com/74355328/148858079-2b68a5e3-a3f3-495e-83f1-694192c37531.gif)
  
  * [react-infinite-scroll-practice](https://github.com/treatme030/react-infinite-scroll-practice)
    * react-infinite-scroll-component 사용하여 무한 스크롤 구현
