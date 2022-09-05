@@ -2,6 +2,18 @@
 
 ## 🔸 Projects 🔸
 
+### [React with MUI](https://github.com/treatme030/online-school)
+  * 사용한 기술
+    * React, JavaScript, MUI
+    
+  ![online3](https://user-images.githubusercontent.com/74355328/188421014-363137bb-d4e7-4f3e-bd51-b7569ee746d4.gif)
+
+### [Next.js Blog](https://github.com/treatme030/nextjs-blog)
+  * 사용한 기술
+    * Next.js, React, JavaScript, css-modules, MongoDB
+    
+  ![n-blog2](https://user-images.githubusercontent.com/74355328/188418576-ef88af1b-0b16-4a55-96c8-c6a6075bd5f8.gif)
+  
 ### [공.장.](https://github.com/treatme030/GongJang)
   * 사용한 기술
     * React, Redux(Redux-toolkit), JavaScript, HTML, styled-components
